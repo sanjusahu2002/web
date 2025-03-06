@@ -1,0 +1,8 @@
+.breadcrums{
+    width: 80%;
+    margin: 20px auto;
+    margin-bottom: 30px;
+    font-size: 18px;
+    display: flex;
+    gap: 10px;
+}

@@ -1,0 +1,22 @@
+.shop-category{
+    width: 80%;
+    margin: 30px auto;
+}
+.shopcategory-indexSort{
+    margin: 5px 0px;
+}
+.shopcategory-indexSort p {
+    font-size: 22px;
+
+}
+.shopcategory-indexSort p span{
+    font-weight: 600;
+}
+
+.shopcategory-products{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 30px;
+    margin-top: 30px;
+    margin-bottom: 150px;
+}

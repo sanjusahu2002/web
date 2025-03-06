@@ -1,0 +1,42 @@
+.footer{
+    width: 65%;
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+    gap: 35px;
+    margin-bottom: 20px;
+}
+.footer-logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.footer-logo h1{
+    font-size: 40px;
+    font-weight: 600;
+}
+.footer-list{
+    display: flex;
+    list-style: none;
+    gap: 35px;
+}
+.footer-list li{
+    font-size: 24px;
+    font-weight: 400;
+}
+.footer-social-media{
+    display: flex;
+    gap: 40px;
+}
+.footer hr{
+    width: 100%;
+    
+}
+.footer p{
+    font-size: 30px;
+    font-weight: 400;
+
+}
